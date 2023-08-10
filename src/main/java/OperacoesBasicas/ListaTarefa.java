@@ -1,4 +1,6 @@
-package main.java.list.OperacoesBasicas;
+package main.java.OperacoesBasicas;
+
+import main.java.list.Tarefa;
 
 import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.ArrayList;
